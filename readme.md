@@ -11,3 +11,5 @@ Subfolders - test links
 Oh this is wysiwyg Markdown editor!
 
 Is there spelcheck plugin?
+
+Test - from Snezana's laptop
