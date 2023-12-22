@@ -11,26 +11,15 @@
             "id": "7b00d679fdd8a7aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "tm/TM goal Setting Workbook Sept 2023 EV.pdf"
-              }
-            }
-          },
-          {
-            "id": "e45faadbc6f79377",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "family/mama-i-tata/README.md",
+                "file": "tm/PresentationMastery/writing-a-speech-with-purpose/second-speech.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "family/mama-i-tata/README.md",
+                "file": "tm/PresentationMastery/writing-a-speech-with-purpose/second-speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "family/mama-i-tata/README.md",
+                "file": "tm/PresentationMastery/writing-a-speech-with-purpose/second-speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "family/mama-i-tata/README.md"
+                "file": "tm/PresentationMastery/writing-a-speech-with-purpose/second-speech.md"
               }
             }
           }
@@ -157,16 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e45faadbc6f79377",
+  "active": "7b00d679fdd8a7aa",
   "lastOpenFiles": [
-    "family/mama-i-tata/POA-from-gov-ca-website.pdf",
+    "tm/PresentationMastery/writing-a-speech-with-purpose/speech-outline-worksheet.md",
+    "tm/PresentationMastery/writing-a-speech-with-purpose/second-speech.md",
+    "tm/PresentationMastery/writing-a-speech-with-purpose/something-about-salesforce/certification-training-etc.md",
+    "tm/Random-jokes.md",
+    "tm/timer-2023-11-15.md",
+    "tm/TM goal Setting Workbook Sept 2023 EV.pdf",
+    "tm/toastmasters-application-2023-07-06.pdf",
     "family/mama-i-tata/README.md",
+    "family/mama-i-tata/Info On POA.md",
+    "[Free.md",
+    "[Powers.md",
+    "readme.md",
+    "family/mama-i-tata/POA-from-gov-ca-website.pdf",
     "family/mama-i-tata/300975.cleaned.pdf",
     "tm/README.md",
     "readme.md.md",
-    "tm/TM goal Setting Workbook Sept 2023 EV.pdf",
-    "tm/timer-2023-11-15.md",
-    "tm/Random-jokes.md",
     "tm/Joke-quizz-master-2023-11-08.md",
     "filip-gitara/filip-guitar-practical-level-7.pdf",
     "filip-gitara/filip-guitar-practical-level-6.pdf",
